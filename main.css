@@ -1,0 +1,85 @@
+body{
+    background-color: rgb(233, 233, 233);
+}
+
+h1{
+    text-align: center;
+}
+
+/*Spicy fonts to look good*/
+h3{
+    font-family: "Times New Roman", Times, serif;
+}
+
+/*Text color for website's title*/
+.title {
+    color:rgb(233, 233, 233);
+    font-size: 20px;
+}
+
+/*Background color for website's title*/
+.title{
+    background-color: rgb(255, 45, 45);
+        margin-top: 100px;
+        margin-right: 0px;
+        margin-bottom: 0px;
+        margin-left: 100px;
+    /*(Top)px (Right)px (Bottom)px (Left)px*/
+    padding: 10px 20px 20px 20px;
+}
+
+/*Description of our company*/
+.description{
+        margin-top: 0px;
+        margin-right: 0px;
+        margin-bottom: 0px;
+        margin-left: 100px;
+        /*(Top)px (Right)px (Bottom)px (Left)px*/
+    padding: 10px 10px 10px 10px;
+}
+
+/*Spicing up our description*/
+.description{
+    border-style: dotted;
+}
+
+#red-text{
+    color:rgb(255, 45, 45)
+}
+
+/*People put their information*/
+.Input1{
+    margin-top: 10px;
+    margin-right: 0px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    /*(Top)px (Right)px (Bottom)px (Left)px*/
+padding: 20px 0px 10px 10px;
+
+height: 10px;
+width: 20%;
+}
+
+.Input2{
+    margin-top: 10px;
+    margin-right: 0px;
+    margin-bottom: 20px;
+    margin-left: 0px;
+    /*(Top)px (Right)px (Bottom)px (Left)px*/
+padding: 20px 0px 10px 0px;
+
+height: 10px;
+width: 40%;
+}
+
+.Input3{
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    margin-left: 0px;
+    /*(Top)px (Right)px (Bottom)px (Left)px*/
+padding: 20px 0px 10px 0px;
+
+height: 10px;
+width: 40%;
+}
